@@ -17,6 +17,8 @@ Actually :
 ### 🧰 Languages and Tools
 
 &nbsp;&nbsp;
+![img_vscode](./img/Figma.svg)
+&nbsp;&nbsp;
 ![img_vscode](./img/vscode.svg)
 &nbsp;&nbsp;
 ![img_html](./img/html.svg)
@@ -30,6 +32,10 @@ Actually :
 ![img_docker](./img/docker.svg)
 &nbsp;&nbsp;
 ![img_git](./img/github.svg)
+&nbsp;&nbsp;
+![img_vscode](./img/windows.svg)
+&nbsp;&nbsp;
+![img_vscode](./img/ubuntu.svg)
 
 ### ⭐ GitHub Stats
 
