@@ -10,7 +10,7 @@ Actually :
 ### ✉️ Connect with me
 
 &nbsp;&nbsp;
-<a href="https://dasyhef.github.io/CV-CF/><img src="./img/DII.svg" /></a>
+<a href="https://dasyhef.github.io/CV-CF" /><img src="./img/DII.svg" /></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/c%C3%A9dric-fran%C3%A7ois-8a2089272/" target="_blanc"><img src="./img/linkedin.svg" /></a>
 
