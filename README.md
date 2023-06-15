@@ -29,6 +29,8 @@ Actually :
 &nbsp;&nbsp;
 ![img_php](./img/php.svg)
 &nbsp;&nbsp;
+![img_sql](./img/sql.svg)
+&nbsp;&nbsp;
 ![img_docker](./img/docker.svg)
 &nbsp;&nbsp;
 ![img_git](./img/github.svg)
