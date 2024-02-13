@@ -19,6 +19,12 @@ Actually :
 ![img_vscode](./img/Figma.svg)
 &nbsp;&nbsp;
 ![img_vscode](./img/vscode.svg)
+&nbsp;&nbsp;
+![img_sql](./img/mysql.svg)
+&nbsp;&nbsp;
+![img_docker](./img/docker.svg)
+&nbsp;&nbsp;
+![img_git](./img/github.svg)
 
 ### 🧰 Languages
 &nbsp;&nbsp;
@@ -29,14 +35,20 @@ Actually :
 ![img_javascript](./img/javascript.svg)
 &nbsp;&nbsp;
 ![img_php](./img/php.svg)
+
+### 🧰 Frameworks
 &nbsp;&nbsp;
-![img_sql](./img/mysql.svg)
+![img_html](./img/symfony.svg)
 &nbsp;&nbsp;
-![img_docker](./img/docker.svg)
+![img_html](./img/springboot.svg)
 &nbsp;&nbsp;
-![img_git](./img/github.svg)
+![img_html](./img/React.svg)
+&nbsp;&nbsp;
+![img_html](./img/Angular.svg)
+
+
+### 🧰 Operating Systems
 &nbsp;&nbsp;
 ![img_vscode](./img/windows.svg)
 &nbsp;&nbsp;
 ![img_vscode](./img/ubuntu.svg)
-
