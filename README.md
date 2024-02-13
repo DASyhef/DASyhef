@@ -6,13 +6,6 @@ Actually :
 
 - 🌱 I’m currently learning **PHP, JS, JAVA and Angular**
 
-### ✉️ Connect with me
-
-&nbsp;&nbsp;
-<a href="https://dasyhef.github.io/CV-CF" /><img src="./img/DII.svg" /></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/c%C3%A9dric-fran%C3%A7ois-8a2089272/" target="_blanc"><img src="./img/linkedin.svg" /></a>
-
 ### 🧰 Tools
 
 &nbsp;&nbsp;
@@ -38,7 +31,7 @@ Actually :
 
 ### 🧰 Frameworks
 &nbsp;&nbsp;
-![img_html](./img/symfony.svg)
+![img_html](./img/symfony-dark.svg)
 &nbsp;&nbsp;
 ![img_html](./img/springboot.svg)
 &nbsp;&nbsp;
