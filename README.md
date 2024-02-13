@@ -13,12 +13,14 @@ Actually :
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/c%C3%A9dric-fran%C3%A7ois-8a2089272/" target="_blanc"><img src="./img/linkedin.svg" /></a>
 
-### 🧰 Languages and Tools
+### 🧰 Tools
 
 &nbsp;&nbsp;
 ![img_vscode](./img/Figma.svg)
 &nbsp;&nbsp;
 ![img_vscode](./img/vscode.svg)
+
+### 🧰 Languages
 &nbsp;&nbsp;
 ![img_html](./img/html.svg)
 &nbsp;&nbsp;
