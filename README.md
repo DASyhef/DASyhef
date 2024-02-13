@@ -14,11 +14,13 @@ Actually :
 &nbsp;&nbsp;
 ![img_vscode](./img/vscode.svg)
 &nbsp;&nbsp;
-![img_sql](./img/mysql.svg)
-&nbsp;&nbsp;
 ![img_docker](./img/docker.svg)
 &nbsp;&nbsp;
 ![img_git](./img/github.svg)
+&nbsp;&nbsp;
+![img_git](./img/ps.svg)
+&nbsp;&nbsp;
+![img_git](./img/inkscape.svg)
 
 ### 🧰 Languages
 &nbsp;&nbsp;
@@ -29,6 +31,8 @@ Actually :
 ![img_javascript](./img/javascript.svg)
 &nbsp;&nbsp;
 ![img_php](./img/php.svg)
+&nbsp;&nbsp;
+![img_sql](./img/mysql.svg)
 
 ### 🧰 Frameworks
 &nbsp;&nbsp;
