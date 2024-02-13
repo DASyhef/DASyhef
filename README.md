@@ -40,9 +40,9 @@ Actually :
 &nbsp;&nbsp;
 ![img_html](./img/springboot.svg)
 &nbsp;&nbsp;
-![img_html](./img/React.svg)
+![img_html](./img/react.svg)
 &nbsp;&nbsp;
-![img_html](./img/Angular.svg)
+![img_html](./img/angular.svg)
 
 ### 🧰 Operating Systems
 &nbsp;&nbsp;
