@@ -1,6 +1,7 @@
 # Cédric FRANÇOIS
 
-Hi I'm Cédric, from France
+Hi I'm Cédric, from France.
+I' m a passionate developer... and also a volunteer community manager for cur.husky's Instagram's page (link in the description)
 
 Actually :
 
