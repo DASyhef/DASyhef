@@ -15,6 +15,8 @@ Actually :
 &nbsp;&nbsp;
 ![img_vscode](./img/vscode.svg)
 &nbsp;&nbsp;
+![img_vscode](./img/eclipse.svg)
+&nbsp;&nbsp;
 ![img_docker](./img/docker.svg)
 &nbsp;&nbsp;
 ![img_git](./img/github.svg)
@@ -22,6 +24,8 @@ Actually :
 ![img_git](./img/ps.svg)
 &nbsp;&nbsp;
 ![img_git](./img/inkscape.svg)
+&nbsp;&nbsp;
+![img_git](./img/gimp.svg)
 
 ### 🧰 Languages
 &nbsp;&nbsp;
