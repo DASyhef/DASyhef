@@ -40,9 +40,14 @@ Actually :
 &nbsp;&nbsp;
 ![img_html](./img/Angular.svg)
 
-
 ### 🧰 Operating Systems
 &nbsp;&nbsp;
 ![img_vscode](./img/windows.svg)
 &nbsp;&nbsp;
 ![img_vscode](./img/ubuntu.svg)
+
+
+### ⭐ GitHub Stats
+
+&nbsp;&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?
