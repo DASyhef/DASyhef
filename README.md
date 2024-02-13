@@ -6,7 +6,7 @@ I' m a passionate developer... and also a volunteer community manager for cur.hu
 Actually :
 
 - 🌱 I’m currently learning **PHP, JS, JAVA and Angular**
-- ![img_vscode](./img/Figma.svg) I'm developping "**Les Balades de Cur.Husky**"'s e-shop
+- ![img_vscode](./img/curhusky.svg) I'm developping "**Les Balades de Cur.Husky**"'s e-shop
 
 ### 🧰 Tools
 
