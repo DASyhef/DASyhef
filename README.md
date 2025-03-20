@@ -5,8 +5,9 @@ I' m a passionate developer... and also a volunteer community manager for cur.hu
 
 Actually :
 
-- 🌱 I’m currently learning **PHP, JS, JAVA and Angular**
+- 🌱 I’m currently working with **PHP, JS, Symfony, Twig and Angular**
 - ![img_vscode](./img/curhusky.svg) I'm developping "**Les Balades de Cur.Husky**"'s e-shop
+- 1st SaaS, "**Shore Breeze**", which is a nautical club management solution -> see here https://shorebreeze.seagulls-dev.fr
 
 ### 🧰 Tools
 
